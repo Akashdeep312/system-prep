@@ -76,10 +76,11 @@ Started By Gabriel Leon de Mattos
 
 # Books
 
--[]  [Web Scalability for Startup Engineers](https://drive.google.com/file/d/1VlNQxKU_GD-K-b2eJsp18l3uzRXPxFmz/view?usp=sharing)
--[]  [Designing Data Intensive Applications](https://drive.google.com/file/d/15UH689IuW0BBrxbWuUHkRuLCPCH0KuUs/view?usp=sharing)
--[]  [Building Microservices](https://drive.google.com/file/d/1pAefgjFYUTXB4aJKXLEPsebeeYko_Z1K/view?usp=sharing)
--[]  [System Design Interview](https://drive.google.com/file/d/1wGivXueFiOSYsirBwrRyILdRz5qtGV7W/view?usp=sharing)
+- [ ] [Web Scalability for Startup Engineers](https://drive.google.com/file/d/1VlNQxKU_GD-K-b2eJsp18l3uzRXPxFmz/view?usp=sharing)
+- [x] [Designing Data Intensive Applications](https://drive.google.com/file/d/15UH689IuW0BBrxbWuUHkRuLCPCH0KuUs/view?usp=sharing)
+- [x] [Building Microservices](https://drive.google.com/file/d/1pAefgjFYUTXB4aJKXLEPsebeeYko_Z1K/view?usp=sharing)
+- [x] [System Design Interview](https://drive.google.com/file/d/1wGivXueFiOSYsirBwrRyILdRz5qtGV7W/view?usp=sharing)
+
 ---
 
 # Videos
