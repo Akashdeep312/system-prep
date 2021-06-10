@@ -76,17 +76,7 @@ Started By Gabriel Leon de Mattos
 
 # Books
 
-- [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647) - [Paid 💵] - Book that talks about disitributed systems as well as lightly demonstrating some code of what it looks like.
-
-- [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_lpo_14_t_0/140-0179130-4076567?_encoding=UTF8&pd_rd_i=1449373321&pd_rd_r=e1f26397-6b89-4ffe-923f-21ad2d124b7a&pd_rd_w=7kW0U&pd_rd_wg=HYohZ&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=FC1XXD2Q6DDAJ4Z1RN2K&psc=1&refRID=FC1XXD2Q6DDAJ4Z1RN2K) - [Paid 💵] - Goes in depth to explain various resources we use when working with distributed systems, as well as how it came to be and what problems it aims to solve.
-
-- [The System Design Manual](https://systemdesignmanual.com/) - [Paid 💵] - Covers the core aspects of distributed systems, like: network fundamentals, the theory underpinning distributed systems, architectural patterns of scalable systems, stability patterns that harden systems against failures and operational best-practices on how to maintain large-scale systems with a small team.
-
-- [Building Microservices](http://ce.sharif.edu/courses/96-97/1/ce924-1/resources/root/Books/building-microservices-designing-fine-grained-systems.pdf) - [Free 👍] - Awesome book that talks about designing sytem architecture with microservices in depth, includes most relevant topics in this regard.
-
-- [Monolith to Microservices](https://www.nginx.com/resources/library/monolith-to-microservices/) - [Free 👍] - Written by the same author as the one above, this book will cover the migration from Monolith to Microservices, it's recommended you start by the previous book.
-
-- [Distributed Systems (3rd Edition)](https://www.distributed-systems.net/index.php/books/ds3/) - [Free 👍] - Great overview of and in-depth introduction to distributed systems. Recommended for intermediate level readers.
+- [Web Scalability for Startup Engineers](https://drive.google.com/file/d/1VlNQxKU_GD-K-b2eJsp18l3uzRXPxFmz/view?usp=sharing)
 ---
 
 # Videos
