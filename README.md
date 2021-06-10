@@ -1,20 +1,4 @@
-<img src="https://raw.githubusercontent.com/madd86/awesome-system-design/master/media/logo.png" align="center" width="850">
-<p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  </a>
-</p>
-If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
-
-A curated list of awesome System Designing articles, videos and resources for distributed computing, AKA Big Data.
-
-Whether you're preparing for an interview or you want to design a distributed/microservice oriented application, this list will definitely help you achieve that.
-
-Attention: Stars on GitHub does not reflect usage or popularity for every item here listed.
-
-Inspired By [Awesome-BigData](https://GitHub.com/onurakpolat/awesome-bigdata/blob/master/README.md)
-
-Started By Gabriel Leon de Mattos
+Inspired By [Awesome System Design](https://github.com/madd86/awesome-system-design)
 
 ## Contents
 
@@ -77,10 +61,17 @@ Started By Gabriel Leon de Mattos
 # Books
 
 - [ ] [Web Scalability for Startup Engineers](https://drive.google.com/file/d/1VlNQxKU_GD-K-b2eJsp18l3uzRXPxFmz/view?usp=sharing)
-- [x] [Designing Data Intensive Applications](https://drive.google.com/file/d/15UH689IuW0BBrxbWuUHkRuLCPCH0KuUs/view?usp=sharing)
-- [x] [Building Microservices](https://drive.google.com/file/d/1pAefgjFYUTXB4aJKXLEPsebeeYko_Z1K/view?usp=sharing)
-- [x] [System Design Interview](https://drive.google.com/file/d/1wGivXueFiOSYsirBwrRyILdRz5qtGV7W/view?usp=sharing)
+- [ ] [Designing Data Intensive Applications](https://drive.google.com/file/d/15UH689IuW0BBrxbWuUHkRuLCPCH0KuUs/view?usp=sharing)
+- [ ] [Building Microservices](https://drive.google.com/file/d/1pAefgjFYUTXB4aJKXLEPsebeeYko_Z1K/view?usp=sharing)
+- [ ] [System Design Interview](https://drive.google.com/file/d/1wGivXueFiOSYsirBwrRyILdRz5qtGV7W/view?usp=sharing)
 
+## Extras
+- [ ] [Domain Driven Design](https://drive.google.com/file/d/1lmdLVYdyci31ba_mRyUZoFZySTza6J8i/view?usp=sharing)
+- [ ] [Microservice Patterns and Best Practices]()
+- [ ] [RESTful Web APIs: Services for a Changing World](https://drive.google.com/file/d/1qgBxioEhNgPmVPS2uNpvjoknH-V3ppAG/view?usp=sharing)
+- [ ] [Build APIs You Won't Hate](https://drive.google.com/file/d/1KYD1MmRjbmJy1no1miUYax1tzXxlyR_p/view?usp=sharing)
+- [ ] [Clean Architecture_ A Craftsman’s Guide to Software Structure and Design-Pearson Education (2018)](https://drive.google.com/file/d/1DuifWwouiMncvGQ_6XBQRgvadt1DJDJF/view?usp=sharing)
+- [ ] [Head first design patterns](https://drive.google.com/file/d/1yiVt-a75Ep48g5UG67rqAh3Y0zZV2YmT/view?usp=sharing)
 ---
 
 # Videos
