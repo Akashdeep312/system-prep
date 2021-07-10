@@ -66,6 +66,7 @@ Inspired By [Awesome System Design](https://github.com/madd86/awesome-system-des
 - [ ] [System Design Interview](https://drive.google.com/file/d/1wGivXueFiOSYsirBwrRyILdRz5qtGV7W/view?usp=sharing)
 
 ## Extras
+- [ ] [Pivotal Certified Professional Core Spring 5 Developer Exam](https://drive.google.com/file/d/1C9hd5T67rkeR2eqtHSqn4H22y_5I6Jre/view?usp=sharing)
 - [ ] [Domain Driven Design](https://drive.google.com/file/d/1lmdLVYdyci31ba_mRyUZoFZySTza6J8i/view?usp=sharing)
 - [ ] [Microservice Patterns and Best Practices]()
 - [ ] [RESTful Web APIs: Services for a Changing World](https://drive.google.com/file/d/1qgBxioEhNgPmVPS2uNpvjoknH-V3ppAG/view?usp=sharing)
